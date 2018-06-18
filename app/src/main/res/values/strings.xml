@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="registration">Welcome !</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="uid">UID</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="click_here">Click Here</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account">Don\'t have an Account?</string>
+    <string name="login">Login</string>
+    <string name="attendance_manager">Attendance Manager</string>
+</resources>
